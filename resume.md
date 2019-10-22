@@ -70,15 +70,17 @@ Bachelors of Science in Psychology (2015)**
     Degree program working collaboratively on cutting-edge psychological research,presenting findings at conferences, effect change in communities through service-learning, and expand intellectual capacity through the provocative discussions
 
 ## __WORK EXPERIENCE__
-*iD Tech, Seattle/Tacoma, WA
-Instructor, 2019*
+#### *iD Tech, Seattle/Tacoma, WA*
+
+    Instructor, 2019
 - Prepare lesson plans, teach classes with an average of 8 students ensuring all are meeting set curriculum goals
 - Learn software and curriculum for multiple courses
 - Apply behavior management techniques to enforce rules and safety regulations
 - Socialize with families during points of contact
 
-*Canterwood Golf and Country Club, Gig Harbor, WA
-Bartender/Server, 2015-2018*
+#### *Canterwood Golf and Country Club, Gig Harbor, WA*
+
+    Bartender/Server, 2015-2018
 - Greeted members by name in a timely and professional manner
 - Maintained full knowledge of beverage list, menu and daily/monthly promotions
 - Committed team player who helped encourage and assist with other employees to maintain an attentive member focused experiences
